@@ -1,4 +1,4 @@
-#Todo List Tutorial https://www.kirupa.com/react/simple_todo_app_react.htm
+# Todo List Tutorial https://www.kirupa.com/react/simple_todo_app_react.htm
 
 In this tutorial, I learned how to:
  - build an app with create-react-app
